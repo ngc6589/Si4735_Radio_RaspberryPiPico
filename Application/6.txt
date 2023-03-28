@@ -1,0 +1,302 @@
+ﾌｸｵｶ(ﾌｸｵｶ)
+
+NHK-FM
+84.8MHz
+LOVE FM
+76.1MHz
+ｴﾌｴﾑｻｶﾞ
+77.9MHz
+CROSS FM
+78.7MHz
+ｴﾌｴﾑﾅｶﾞｻｷ
+79.5MHz
+fm fukuoka
+80.7MHz
+ｴﾌｴﾑｵｵｲﾀ
+88.0MHz
+NHK-1
+612kHz
+NHK-2
+1017kHz
+OBSﾗｼﾞｵ
+1098kHz
+NBCﾗｼﾞｵ
+1233kHz
+RKBﾗｼﾞｵ
+1278kHz
+KBCﾗｼﾞｵ
+1413kHz
+AFN
+1575kHz
+
+
+ﾌｸｵｶ(ｷﾀｷｭｳｼｭｳ)
+
+NHK-FM
+85.7MHz
+LOVE FM
+82.7MHz
+ｴﾌｴﾑｻｶﾞ
+77.9MHz
+CROSS FM
+77.0MHz
+ｴﾌｴﾑﾅｶﾞｻｷ
+79.5MHz
+fm fukuoka
+80.0MHz
+ｴﾌｴﾑｵｵｲﾀ
+88.0MHz
+NHK-1
+540kHz
+NHK-2
+1602kHz
+OBSﾗｼﾞｵ
+1098kHz
+NBCﾗｼﾞｵ
+1233kHz
+RKBﾗｼﾞｵ
+1197kHz
+KBCﾗｼﾞｵ
+720kHz
+AFN
+1575kHz
+
+
+ｻｶﾞ
+
+NHK-FM
+81.6MHz
+LOVE FM
+76.1MHz
+ｴﾌｴﾑｻｶﾞ
+77.9MHz
+CROSS FM
+78.7MHz
+ｴﾌｴﾑﾅｶﾞｻｷ
+79.5MHz
+fm fukuoka
+80.7MHz
+ｴﾌｴﾑｵｵｲﾀ
+88.0MHz
+NHK-1
+963kHz
+NHK-2
+873kHz
+OBSﾗｼﾞｵ
+1098kHz
+NBCﾗｼﾞｵ
+1233kHz
+RKBﾗｼﾞｵ
+1278kHz
+KBCﾗｼﾞｵ
+1413kHz
+AFN
+1575kHz
+
+
+ﾅｶﾞｻｷ
+
+NHK-FM
+84.5MHz
+LOVE FM
+76.1MHz
+ｴﾌｴﾑｻｶﾞ
+77.9MHz
+CROSS FM
+78.7MHz
+ｴﾌｴﾑﾅｶﾞｻｷ
+79.5MHz
+fm fukuoka
+80.7MHz
+ｴﾌｴﾑｵｵｲﾀ
+88.0MHz
+NHK-1
+684kHz
+NHK-2
+1377kHz
+OBSﾗｼﾞｵ
+1098kHz
+NBCﾗｼﾞｵ
+1233kHz
+RKBﾗｼﾞｵ
+1278kHz
+KBCﾗｼﾞｵ
+1413kHz
+AFN
+1575kHz
+
+
+ｵｵｲﾀ
+
+NHK-FM
+88.9MHz
+LOVE FM
+76.1MHz
+ｴﾌｴﾑｻｶﾞ
+77.9MHz
+CROSS FM
+78.7MHz
+ｴﾌｴﾑﾅｶﾞｻｷ
+79.5MHz
+fm fukuoka
+80.7MHz
+ｴﾌｴﾑｵｵｲﾀ
+88.0MHz
+NHK-1
+639kHz
+NHK-2
+1467kHz
+OBSﾗｼﾞｵ
+1098kHz
+NBCﾗｼﾞｵ
+1233kHz
+RKBﾗｼﾞｵ
+1278kHz
+KBCﾗｼﾞｵ
+1413kHz
+AFN
+1575kHz
+
+
+ｸﾏﾓﾄ
+
+NHK-FM
+85.4MHz
+FMK ｴﾌｴﾑ･ｸﾏﾓﾄ
+77.4MHz
+u-FM ｴﾌｴﾑｶｺﾞｼﾏ
+79.8MHz
+JOY FM FMﾐﾔｻﾞｷ
+83.2MHz
+ｴﾌｴﾑｵｷﾅﾜ
+87.3MHz
+AFN
+89.1MHz
+NHK-1
+756kHz
+NHK-2
+873kHz
+AFN
+648kHz
+RBCiﾗｼﾞｵ
+738kHz
+ROK ﾗｼﾞｵｵｷﾅﾜ
+864kHz
+MRTﾗｼﾞｵ
+936kHz
+MBCﾗｼﾞｵ
+1107kHz
+RKKﾗｼﾞｵ
+1197kHz
+
+
+ﾐﾔｻﾞｷ
+
+NHK-FM
+86.2MHz
+FMK ｴﾌｴﾑ･ｸﾏﾓﾄ
+77.4MHz
+u-FM ｴﾌｴﾑｶｺﾞｼﾏ
+79.8MHz
+JOY FM FMﾐﾔｻﾞｷ
+83.2MHz
+ｴﾌｴﾑｵｷﾅﾜ
+87.3MHz
+AFN
+89.1MHz
+NHK-1
+540kHz
+NHK-2
+1467kHz
+AFN
+648kHz
+RBCiﾗｼﾞｵ
+738kHz
+ROK ﾗｼﾞｵｵｷﾅﾜ
+864kHz
+MRTﾗｼﾞｵ
+936kHz
+MBCﾗｼﾞｵ
+1107kHz
+RKKﾗｼﾞｵ
+1197kHz
+
+
+ｶｺﾞｼﾏ
+
+NHK-FM
+85.6MHz
+FMK ｴﾌｴﾑ･ｸﾏﾓﾄ
+77.4MHz
+u-FM ｴﾌｴﾑｶｺﾞｼﾏ
+79.8MHz
+JOY FM FMﾐﾔｻﾞｷ
+83.2MHz
+ｴﾌｴﾑｵｷﾅﾜ
+87.3MHz
+AFN
+89.1MHz
+NHK-1
+81.3MHz
+NHK-2
+80.3MHz
+RBCiﾗｼﾞｵ
+82.6MHz
+ROK ﾗｼﾞｵｵｷﾅﾜ
+80.1MHz
+NHK-1
+576kHz
+NHK-2
+1386kHz
+AFN
+648kHz
+RBCiﾗｼﾞｵ
+738kHz
+ROK ﾗｼﾞｵｵｷﾅﾜ
+864kHz
+MRTﾗｼﾞｵ
+936kHz
+MBCﾗｼﾞｵ
+1107kHz
+RKKﾗｼﾞｵ
+1197kHz
+
+
+ｵｷﾅﾜ
+
+NHK-FM
+88.1MHz
+FMK ｴﾌｴﾑ･ｸﾏﾓﾄ
+77.4MHz
+u-FM ｴﾌｴﾑｶｺﾞｼﾏ
+79.8MHz
+JOY FM FMﾐﾔｻﾞｷ
+83.2MHz
+ｴﾌｴﾑｵｷﾅﾜ
+87.3MHz
+AFN
+89.1MHz
+NHKｰ1
+83.5MHz
+NHKｰ2
+80.3MHz
+RBCiﾗｼﾞｵ
+82.6MHz
+ROK ﾗｼﾞｵｵｷﾅﾜ
+80.1MHz
+NHK-1
+549kHz
+NHK-2
+1125kHz
+AFN
+648kHz
+RBCiﾗｼﾞｵ
+738kHz
+ROK ﾗｼﾞｵｵｷﾅﾜ
+864kHz
+MRTﾗｼﾞｵ
+936kHz
+MBCﾗｼﾞｵ
+1107kHz
+RKKﾗｼﾞｵ
+1197kHz
