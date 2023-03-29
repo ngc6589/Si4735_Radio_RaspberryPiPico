@@ -57,6 +57,71 @@ LW/MW/SW 受信時は SMA コネクタの後に 3SK291 を使用した1石高周
 
 正面から見て左が LW/MW/SW 用で右が FM 放送用のアンテナ端子です。アンテナ端子の形状は SMA タイプです。
 
+## I2S 出力端子について
+
+|端子名|備考|
+|-|-|
+|BCLK|ビットクロック|
+|DATA|データ|
+|LRCK|LRクロック|
+|GND|グランド|
+|NC|未接続|
+|VCC|5V出力 3.3vではありません|
+
+I2S 出力するときは、プログラムのラジオチップ初期化のコマンドを I2S 出力対応にする必要があります。
+
+```
+# Generate 48k I2S clock
+# uncomment I2S OUTPUT
+# @rp2.asm_pio(
+#     sideset_init=(rp2.PIO.OUT_HIGH, rp2.PIO.OUT_HIGH)
+# )
+# def gen48k():
+#     set(x, 30)       .side(0b00) [1]
+#     nop()            .side(0b01) [1]
+#     label("L01")
+#     nop()            .side(0b00) [1]
+#     jmp(x_dec, "L01").side(0b01) [1]
+#     set(x, 30)       .side(0b10) [1]
+#     nop()            .side(0b11) [1]
+#     label("R01")
+#     nop()            .side(0b10) [1]
+#     jmp(x_dec, "R01").side(0b11) [1]
+# 
+# sm0 = rp2.StateMachine(
+#     0,
+#     gen48k,
+#     freq=12_288_000,
+#     sideset_base=machine.Pin(4)
+# )
+# sm0.active(1)
+```
+
+のコメントを外します。
+また、
+
+```
+    def FMPOWER_UP(self):
+        self.i2c.writeto(self.addr, bytes([0x01, 0x00, 0x05]))  # analog Out
+#         self.i2c.writeto(self.addr, bytes([0x01, 0x00, 0xB0]))   # I2S
+        self.waitCTS()
+        time.sleep(0.5)
+        self.setProperty(bytes([0xFF, 0x00, 0x00, 0x00]))          # Turn off Debug Mode
+#         self.setProperty(bytes([0x01, 0x04, 0xBB, 0x80]))        # I2s sample rate
+```
+```
+    def AMPOWER_UP(self):
+        self.i2c.writeto(self.addr, bytes([0x01, 0x01, 0x05])) # analog out
+#         self.i2c.writeto(self.addr, bytes([0x01, 0x01, 0xB0]))  # I2S
+        self.waitCTS()
+        time.sleep(0.5)
+        self.setProperty(bytes([0xFF, 0x00, 0x00, 0x00]))         # Turn off Debug Mode
+#         self.setProperty(bytes([0x01, 0x04, 0xBB, 0x80]))       # I2S sample rate
+```
+の # analog out の行をコメントアウトして i2s のコメントを外すと I2S 出力になります。
+
+デフォルトは 16bit/48k になります。
+
 # プログラム更新
 
 ## thonny IDE
